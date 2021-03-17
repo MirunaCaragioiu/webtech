@@ -4,16 +4,6 @@ Team Name: Unplugged Tech Crew
 
 Team Topic: Food Waste App
 
-Team Members:
-
-1. Balan Diana-Iuliana: Product Owner
-
-2. Caragioiu Miruna-Ioana: Project Manager
-
-3. Tofan Radu: Software Developer
-
-4. Topi Kosta: Design Developer
-
 Introducere
 
 Risipa de alimente este o problema mondiala de mari proportii. Statisticile spun ca anual, în România, aproximativ o treime din produse sunt irosite.
